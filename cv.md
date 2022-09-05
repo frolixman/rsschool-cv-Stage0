@@ -27,7 +27,7 @@ console.log(multiply(7, 3));
 - Epam, Introduction to Java Online
 - LeverX Group, Intro to IT:
 
-![Certificate Lever X](https://github.com/frolixman/rsschool-cv/blob/gh-pages/Images/Certificate%20Lever%20X.jpg?raw=true)
+![Certificate Lever X](https://github.com/frolixman/rsschool-cv/blob/gh-pages/assets/img/Certificate_Lever_X_resized.jpg)
 
 ## Languages:
 - Russian - Native
